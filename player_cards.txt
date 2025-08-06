@@ -1,0 +1,9 @@
+scrub;You scrub your cat, cleaning them up;attack;20,30;1;.99
+shampoo;You shampoo your cat, heavily cleaning them;attack;50,60;2;.65
+rinse;You rinse your cat, getting them wet and cleaning them;attack;35,40;1;.8
+armor up;You put on some medival armor to protect against the cat;defense buff;1.5;3;.6
+gloves;You put on some gloves so the scratches hurt less;defense buff;1.2;1;.95
+brush;You brush your cat, making the bath easier;defense debuff;.3;2;.8
+clip nails;You clip your cat's nails, making it easier to give them a bath;attack debuff;.3;1;.7
+give a treat;You give your cat a treat, making them more accepting towards a bath;attack buff;1.3;1;.7
+bring in a friend;You bring your friend in to help keep your cat under control;defense buff;1.5;3;.3

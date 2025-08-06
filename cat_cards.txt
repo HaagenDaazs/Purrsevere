@@ -1,0 +1,9 @@
+scratch;Your cat scratches you;attack;20,30;1;.95
+bite;Your cat bites you;attack;50,60;2;.7
+swat;Your cat swats at you;attack;35,40;1;.85
+stick up tail;Your cat sticks up their tale;defense buff;1.1;1;.99
+hiss;Your cat hisses;defense debuff;.3;2;.8
+growl;Your cat growls at you. you didn't even know they could do that;attack debuff;.2;1;.8
+stare down;Your cat stares you down, planning their next move;attack buff;1.3;1;.7
+call the dog;Your cat somehow got your neighbor's dog in the house to distract you;defense buff;1.5;3;.3
+squirm;Your cat squirms around, making them harder to clean;defense debuff;.4;3;.75
